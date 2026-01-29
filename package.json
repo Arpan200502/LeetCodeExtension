@@ -1,0 +1,11 @@
+{
+  "name": "github-oauth-extension",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node api/exchange-code.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
