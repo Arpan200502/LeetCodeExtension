@@ -26,6 +26,15 @@ This extension **automates the entire workflow** — solve on LeetCode, and your
 - 🔐 Secure GitHub authentication
 
 ---
+## 📂 Repository Structure
+
+<p align="center">
+  <img src="Screenshot 2026-02-02 234906.png" alt="Repository Structure" width="600"/>
+</p>
+
+<p align="center">
+  <em>Auto-generated folder structure created by the extension</em>
+</p>
 
 ## 🛠️ How it works
 
