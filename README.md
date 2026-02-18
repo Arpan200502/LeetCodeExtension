@@ -3,7 +3,7 @@
 A Chrome extension that automatically syncs accepted LeetCode solutions to GitHub repositories.
 
 ---
-
+ 
 ## ✨ Why this exists
 
 Keeping LeetCode solutions on GitHub is great for:
