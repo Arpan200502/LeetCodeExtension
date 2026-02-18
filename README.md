@@ -1,6 +1,6 @@
 # LeetCode → GitHub Sync 🚀
 
-A Chrome extension that automatically syncs accepted LeetCode solutions to GitHub repositories.
+A Chrome extension that automatically syncs accepted LeetCode solutions to GitHub repositories. 
 
 ---
  
