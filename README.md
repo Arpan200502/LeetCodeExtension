@@ -10,7 +10,7 @@ Keeping LeetCode solutions on GitHub is great for:
 - Tracking DSA consistency
 - Building a public proof-of-work
 - Maintaining a clean contribution graph
-
+ 
 But manually copying code is boring and error-prone.
 
 This extension **automates the entire workflow** — solve on LeetCode, and your code appears on GitHub.
